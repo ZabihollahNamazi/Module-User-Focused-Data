@@ -1,13 +1,11 @@
 body{
     background-color: bisque;
 }
-
 #name, #email, #date, #size {
     border-radius: 10px;
     background-color: antiquewhite;
     margin: 10px;
 }
-
 #size {
     width: 80px;
 }
@@ -23,6 +21,7 @@ body{
     margin: 10px;
 }
 .form {
+    background-color: beige;
     padding-inline: 20px;
     border: 5px solid black;
     width: 200px;
